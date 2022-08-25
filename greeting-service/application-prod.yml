@@ -9,4 +9,4 @@ management:
         - '*'
 greeting-service:
   greeting: "Pronto"
-  default-value: "Deus me tornou um DEV!"
+  default-value: "Deus me tornou um DEV, ALELUIA!"
