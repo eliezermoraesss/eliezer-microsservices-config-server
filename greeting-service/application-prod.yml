@@ -8,5 +8,5 @@ management:
         include:
         - '*'
 greeting-service:
-  greeting: "Cia"
-  default-value: "Mondo"
+  greeting: "Pronto"
+  default-value: "Deus me tornou um DEV!"
